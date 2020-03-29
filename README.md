@@ -1,8 +1,8 @@
-原圖：
+原圖片：
 ![GitHub Logo](/pig.jpg)
 
-灰階：
+灰階圖：
 ![GitHub Logo](/pig_gray.jpg)
 
-threasholding：
+二值化：
 ![GitHub Logo](/pig_threshold.jpg)
