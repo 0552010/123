@@ -6,4 +6,4 @@
 灰階 | ![GitHub Logo](/pig_gray.jpg)
 二值化 | ![GitHub Logo](/pig_threshold.jpg)
 open | ![GitHub Logo](/open.PNG)
-close | ![GitHub Logo](/close.PNG)
+close | ![GitHub Logo](/closee.PNG)
