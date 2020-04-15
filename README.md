@@ -1,9 +1,7 @@
-# 我不會關閉AVX (小豬真可愛)
+# HW2
 
 名子 | 圖片
 ------------ | -------------
-原圖 | ![GitHub Logo](/pig.jpg)
-灰階 | ![GitHub Logo](/pig_gray.jpg)
-二值化 | ![GitHub Logo](/pig_threshold.jpg)
-open | ![GitHub Logo](/open.PNG)
-close | ![GitHub Logo](/closee.PNG)
+原圖 | ![GitHub Logo](/20200408_180348.jpg)
+canny | ![GitHub Logo](/CANNY.jpg)
+sobel | ![GitHub Logo](/SOBEL.jpg)
