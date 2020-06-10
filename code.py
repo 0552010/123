@@ -5,7 +5,7 @@ lower_green = np.array([35, 110, 106])
 upper_green = np.array([77, 255, 255])  
 lower_red = np.array([0, 127, 128])  
 upper_red = np.array([10, 255, 255])  
-#https://www.tfzx.net/article/6838812.html
+
 cap = cv2.VideoCapture('1.mp4') 
 #cap = cv2.VideoCapture(0)
 if (cap.isOpened()):  
